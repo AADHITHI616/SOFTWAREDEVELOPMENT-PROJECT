@@ -7,6 +7,6 @@ samha - GUI -marks2 -marks3 -clear
 
 Asna -Results -Highest Marks -Lowest Marks -Message
 
-munshifa - Marks 4 - Marks 5 - Calculate
+munshifa - marks 4 -marks 5- calculat
 
 Amna- Students Name - Marks 1 - Exit
