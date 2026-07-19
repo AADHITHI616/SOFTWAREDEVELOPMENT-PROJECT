@@ -5,7 +5,7 @@ aadhila - Total label & textfeild - Average label & textfeild -Grade label& text
 
 samha - GUI -marks2 -marks3 -clear
 
-Asna -Results -Highest Marks -Lowest Marks -Message
+Asna - Results -Highest Marks -Lowest Marks -Message
 
 munshifa - marks 4 -marks 5- calculat
 
